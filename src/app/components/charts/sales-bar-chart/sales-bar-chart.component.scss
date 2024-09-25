@@ -1,0 +1,23 @@
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: lightblue;
+  stroke: steelblue;
+  stroke-width: 0.5px;
+}
+
+.axis-title {
+  fill: steelblue;
+  font-size: 14px;
+}
+.axis {
+  color: steelblue;
+}
+.tooltip {
+  fill: white;
+  color: steelblue;
+  stroke: black;
+  stroke-width: 0.5px;
+}

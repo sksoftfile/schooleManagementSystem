@@ -1,0 +1,16 @@
+.arc path {
+  stroke: #fff;
+  stroke-width: 3px;
+}
+.arc path:hover {
+  stroke: #fff;
+  stroke-width: 0px;
+}
+.expense-pie-chart-label {
+  fill: #fff;
+  font-size: medium;
+}
+.arc path:hover + .expense-pie-chart-label {
+  fill: #fff;
+  font-size: large;
+}
